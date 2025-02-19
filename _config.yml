@@ -119,7 +119,7 @@ navbar-col: "#5dc1b9"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#5dc1b9"
-footer-text-col: "#777777"
+footer-text-col: "#404040"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
