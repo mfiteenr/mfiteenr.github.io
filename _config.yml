@@ -37,11 +37,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "maria.fite@gmail.com"
-  facebook: ferranad
-  github: ferranad
-  twitter: ferranad
-  youtube: "@ferranad"
-  linkedin: ferranad
+  facebook: mariafite
+  github: mariafite
+  twitter: mariafite
+  youtube: "@mariafite"
+  linkedin: mariafite
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ferranad.github.io"
+url-pretty: "mfiteenr.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
